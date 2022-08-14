@@ -10,6 +10,7 @@ no no no no no
 drew barrymore 
 draw
 love
+<<<<<<< HEAD
 jj yk gksnkn s binod
 
 
@@ -17,3 +18,12 @@ dfghjklbnm,
 fghjkvbnm
 ghjklghjklghjk
 vbnmnfgyuijm
+=======
+
+crew...
+
+Headquarters: Mountain View, California, United States
+Founders: Larry Page, Sergey Brin
+Parent organization: Alphabet Inc.
+Subsidiaries: YouTube, Google LLC, Kaggle, Firebase, MORE
+
